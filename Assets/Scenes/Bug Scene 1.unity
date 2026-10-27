@@ -178,7 +178,7 @@ MonoBehaviour:
     rgba: 4278255486
   - serializedVersion: 2
     rgba: 4278255486
-  XBound: 5
+  XBound: 3.5
   YBound: 4.5
   MaxLives: 3
   BlockScoreAmount: 10
